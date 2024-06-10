@@ -17,3 +17,9 @@ Atualmente sou estagiária de desenvolvimento Backend, sempre em busca de novos 
 <p align="left">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielassg&hide=TeX&layout=compact&theme=dark"/>
 </p>
+
+ <img height="25em" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
+ <p align="right">
+<img height="70em" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/>
+</p>
