@@ -14,3 +14,7 @@ Atualmente sou estagiária de desenvolvimento Backend, sempre em busca de novos 
   <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
+
+<p align="left">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielassg&hide=TeX&layout=compact&theme=dark"/>
+</p>
