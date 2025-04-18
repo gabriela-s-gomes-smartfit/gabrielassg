@@ -7,6 +7,7 @@ Começando como estagiária de desenvolvimento backend com Ruby, atualmente sou 
   <img align="center" alt="GB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="GB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GB-CSS" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-2048x2045-rgul477b.png">
 </div>
   
   ##
