@@ -1,6 +1,6 @@
 ## Oie, eu sou a Gabriela! 🗻
 
-Atualmente sou estagiária de desenvolvimento Backend, sempre em busca de novos conhecimentos!
+Começando como estagiária de desenvolvimento backend com Ruby, atualmente sou estagiária de Quality Assurance, sempre em busca de novos conhecimentos!
 <div style="display: inline_block"><br>
   <img align="center" alt="GB-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
   <img align="center" alt="GB-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg">
